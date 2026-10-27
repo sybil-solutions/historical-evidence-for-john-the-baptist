@@ -8,6 +8,10 @@ This repository holds three things:
 
 **Read it:** <https://sybil-solutions.github.io/historical-evidence-for-john-the-baptist/>
 
+The companion archive on Jesus of Nazareth — the dossier, the 238 sources it cites, and the same searchable reader — is at
+[sybil-solutions/all-historical-evidence-of-jesus-christ](https://sybil-solutions.github.io/all-historical-evidence-of-jesus-christ/).
+John appears in both; the difference is which figure the evidence is organised around.
+
 To run the same site locally, open `docs/index.html`, or serve it:
 
 ```sh

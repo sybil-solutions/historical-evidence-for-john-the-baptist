@@ -1,0 +1,1696 @@
+[
+ {
+  "id": "S01",
+  "number": 1,
+  "citation": "Josephus, Jewish Antiquities 18.109-119",
+  "work": "Josephus",
+  "detail": "Jewish Antiquities 18.109-119",
+  "domains": [
+   "livius.org"
+  ],
+  "urls": [
+   "https://www.livius.org/sources/content/josephus/jewish-antiquities/josephus-on-john-the-baptist/"
+  ],
+  "url": "https://www.livius.org/sources/content/josephus/jewish-antiquities/josephus-on-john-the-baptist/",
+  "pdf_page": 50,
+  "cited_in": {
+   "00-executive-findings": 1
+  }
+ },
+ {
+  "id": "S02",
+  "number": 2,
+  "citation": "Nathan Shedd, John the Baptist, Critical Dictionary of Apocalyptic and Millenarian Movements, 2021",
+  "work": "Nathan Shedd",
+  "detail": "John the Baptist, Critical Dictionary of Apocalyptic and Millenarian Movements, 2021",
+  "domains": [
+   "cdamm.org"
+  ],
+  "urls": [
+   "https://www.cdamm.org/articles/john-the-baptist"
+  ],
+  "url": "https://www.cdamm.org/articles/john-the-baptist",
+  "pdf_page": 50,
+  "cited_in": {
+   "00-executive-findings": 1
+  }
+ },
+ {
+  "id": "S03",
+  "number": 3,
+  "citation": "USCCB, Introduction to Mark",
+  "work": "USCCB",
+  "detail": "Introduction to Mark",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/mark/0"
+  ],
+  "url": "https://bible.usccb.org/bible/mark/0",
+  "pdf_page": 50,
+  "cited_in": {
+   "01-what-evidence-survives": 1
+  }
+ },
+ {
+  "id": "S04",
+  "number": 4,
+  "citation": "USCCB, Introduction to Matthew",
+  "work": "USCCB",
+  "detail": "Introduction to Matthew",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/matthew/0"
+  ],
+  "url": "https://bible.usccb.org/bible/matthew/0",
+  "pdf_page": 50,
+  "cited_in": {
+   "01-what-evidence-survives": 1
+  }
+ },
+ {
+  "id": "S05",
+  "number": 5,
+  "citation": "USCCB, Introduction to Luke",
+  "work": "USCCB",
+  "detail": "Introduction to Luke",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/luke/0?bk=Luke&ch="
+  ],
+  "url": "https://bible.usccb.org/bible/luke/0?bk=Luke&ch=",
+  "pdf_page": 50,
+  "cited_in": {
+   "01-what-evidence-survives": 1
+  }
+ },
+ {
+  "id": "S06",
+  "number": 6,
+  "citation": "USCCB, Introduction to John",
+  "work": "USCCB",
+  "detail": "Introduction to John",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/john/0"
+  ],
+  "url": "https://bible.usccb.org/bible/john/0",
+  "pdf_page": 50,
+  "cited_in": {
+   "01-what-evidence-survives": 1
+  }
+ },
+ {
+  "id": "S07",
+  "number": 7,
+  "citation": "Dorota Hartman, Un uomo buono: Giovanni Battista in Flavio Giuseppe e nel materiale speciale di Luca, 2017",
+  "work": "Dorota Hartman",
+  "detail": "Un uomo buono: Giovanni Battista in Flavio Giuseppe e nel materiale speciale di Luca, 2017",
+  "domains": [
+   "unora.unior.it"
+  ],
+  "urls": [
+   "https://unora.unior.it/handle/11574/179618"
+  ],
+  "url": "https://unora.unior.it/handle/11574/179618",
+  "pdf_page": 50,
+  "cited_in": {
+   "01-what-evidence-survives": 1
+  }
+ },
+ {
+  "id": "S08",
+  "number": 8,
+  "citation": "Rivka Nir, John the Baptist, Jesus, and Other New Testament Figures in Josephus' Writings, 2026",
+  "work": "Rivka Nir",
+  "detail": "John the Baptist, Jesus, and Other New Testament Figures in Josephus' Writings, 2026",
+  "domains": [
+   "cris.openu.ac.il"
+  ],
+  "urls": [
+   "https://cris.openu.ac.il/en/publications/john-the-baptist-jesus-and-other-new-testament-figures-in-josephu/"
+  ],
+  "url": "https://cris.openu.ac.il/en/publications/john-the-baptist-jesus-and-other-new-testament-figures-in-josephu/",
+  "pdf_page": 50,
+  "cited_in": {
+   "01-what-evidence-survives": 1
+  }
+ },
+ {
+  "id": "S09",
+  "number": 9,
+  "citation": "Origen, Against Celsus 1.47",
+  "work": "Origen",
+  "detail": "Against Celsus 1.47",
+  "domains": [
+   "newadvent.org"
+  ],
+  "urls": [
+   "https://www.newadvent.org/fathers/04161.htm"
+  ],
+  "url": "https://www.newadvent.org/fathers/04161.htm",
+  "pdf_page": 50,
+  "cited_in": {
+   "02-a-life-reconstructed": 1
+  }
+ },
+ {
+  "id": "S10",
+  "number": 10,
+  "citation": "Luke 1, primary text and notes",
+  "work": "Luke 1",
+  "detail": "primary text and notes",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/luke/1"
+  ],
+  "url": "https://bible.usccb.org/bible/luke/1",
+  "pdf_page": 50,
+  "cited_in": {
+   "02-a-life-reconstructed": 1
+  }
+ },
+ {
+  "id": "S11",
+  "number": 11,
+  "citation": "Luke 3, primary text and notes",
+  "work": "Luke 3",
+  "detail": "primary text and notes",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/luke/3"
+  ],
+  "url": "https://bible.usccb.org/bible/luke/3",
+  "pdf_page": 50,
+  "cited_in": {
+   "02-a-life-reconstructed": 1
+  }
+ },
+ {
+  "id": "S12",
+  "number": 12,
+  "citation": "Mark 1, primary text",
+  "work": "Mark 1",
+  "detail": "primary text",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Mark%201&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Mark%201&version=NRSVUE",
+  "pdf_page": 50,
+  "cited_in": {
+   "02-a-life-reconstructed": 1,
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S13",
+  "number": 13,
+  "citation": "2 Kings 1:8, Elijah's appearance",
+  "work": "2 Kings 1:8",
+  "detail": "Elijah's appearance",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=2%20Kings%201%3A8&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=2%20Kings%201%3A8&version=NRSVUE",
+  "pdf_page": 51,
+  "cited_in": {
+   "02-a-life-reconstructed": 1
+  }
+ },
+ {
+  "id": "S14",
+  "number": 14,
+  "citation": "Joan E. Taylor, The Immerser: John the Baptist within Second Temple Judaism, 1997, institutional record",
+  "work": "Joan E. Taylor",
+  "detail": "The Immerser: John the Baptist within Second Temple Judaism, 1997, institutional record",
+  "domains": [
+   "kclpure.kcl.ac.uk"
+  ],
+  "urls": [
+   "https://kclpure.kcl.ac.uk/portal/en/publications/the-immerser-john-the-baptist-within-second-temple-judaism/"
+  ],
+  "url": "https://kclpure.kcl.ac.uk/portal/en/publications/the-immerser-john-the-baptist-within-second-temple-judaism/",
+  "pdf_page": 51,
+  "cited_in": {
+   "03-what-kind-of-movement": 1,
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S15",
+  "number": 15,
+  "citation": "Matthew 3, primary text and notes",
+  "work": "Matthew 3",
+  "detail": "primary text and notes",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/matthew/3"
+  ],
+  "url": "https://bible.usccb.org/bible/matthew/3",
+  "pdf_page": 51,
+  "cited_in": {
+   "03-what-kind-of-movement": 1
+  }
+ },
+ {
+  "id": "S16",
+  "number": 16,
+  "citation": "Luke 11:1 and context",
+  "work": "Luke 11:1 and context",
+  "detail": "",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/luke/11"
+  ],
+  "url": "https://bible.usccb.org/bible/luke/11",
+  "pdf_page": 51,
+  "cited_in": {
+   "03-what-kind-of-movement": 1
+  }
+ },
+ {
+  "id": "S17",
+  "number": 17,
+  "citation": "Felix Just, John the Baptist in the New Testament, comparative passage guide",
+  "work": "Felix Just",
+  "detail": "John the Baptist in the New Testament, comparative passage guide",
+  "domains": [
+   "catholic-resources.org"
+  ],
+  "urls": [
+   "https://www.catholic-resources.org/Bible/John-Baptist.htm"
+  ],
+  "url": "https://www.catholic-resources.org/Bible/John-Baptist.htm",
+  "pdf_page": 51,
+  "cited_in": {
+   "03-what-kind-of-movement": 1
+  }
+ },
+ {
+  "id": "S18",
+  "number": 18,
+  "citation": "Matthew 21:23-32, primary text",
+  "work": "Matthew 21:23-32",
+  "detail": "primary text",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/matthew/21"
+  ],
+  "url": "https://bible.usccb.org/bible/matthew/21",
+  "pdf_page": 51,
+  "cited_in": {
+   "04-why-baptism-mattered": 1
+  }
+ },
+ {
+  "id": "S19",
+  "number": 19,
+  "citation": "Yonatan Adler, On the Origins of Tevilah: Ritual Immersion, 2017",
+  "work": "Yonatan Adler",
+  "detail": "On the Origins of Tevilah: Ritual Immersion, 2017",
+  "domains": [
+   "thetorah.com"
+  ],
+  "urls": [
+   "https://www.thetorah.com/article/on-the-origins-of-tevilah-ritual-immersion"
+  ],
+  "url": "https://www.thetorah.com/article/on-the-origins-of-tevilah-ritual-immersion",
+  "pdf_page": 51,
+  "cited_in": {
+   "04-why-baptism-mattered": 1
+  }
+ },
+ {
+  "id": "S20",
+  "number": 20,
+  "citation": "James F. McGrath, John of History, Baptist of Faith, 2024, publisher description",
+  "work": "James F. McGrath",
+  "detail": "John of History, Baptist of Faith, 2024, publisher description",
+  "domains": [
+   "eerdmans.com"
+  ],
+  "urls": [
+   "https://www.eerdmans.com/9780802883995/john-of-history-baptist-of-faith/"
+  ],
+  "url": "https://www.eerdmans.com/9780802883995/john-of-history-baptist-of-faith/",
+  "pdf_page": 51,
+  "cited_in": {
+   "04-why-baptism-mattered": 1,
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S21",
+  "number": 21,
+  "citation": "Thomas Kazen, John's Immersions: Ritual Purification, but from What?, 2024, abstract",
+  "work": "Thomas Kazen",
+  "detail": "John's Immersions: Ritual Purification, but from What?, 2024, abstract",
+  "domains": [
+   "journals.sagepub.com"
+  ],
+  "urls": [
+   "https://journals.sagepub.com/doi/10.1177/0142064X241242716"
+  ],
+  "url": "https://journals.sagepub.com/doi/10.1177/0142064X241242716",
+  "pdf_page": 51,
+  "cited_in": {
+   "04-why-baptism-mattered": 1,
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S22",
+  "number": 22,
+  "citation": "Acts 19:1-7, primary text",
+  "work": "Acts 19:1-7",
+  "detail": "primary text",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/acts/19"
+  ],
+  "url": "https://bible.usccb.org/bible/acts/19",
+  "pdf_page": 51,
+  "cited_in": {
+   "04-why-baptism-mattered": 1
+  }
+ },
+ {
+  "id": "S23",
+  "number": 23,
+  "citation": "Romans 6:1-11, baptism and Christ's death",
+  "work": "Romans 6:1-11",
+  "detail": "baptism and Christ's death",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Romans%206%3A1-11&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Romans%206%3A1-11&version=NRSVUE",
+  "pdf_page": 51,
+  "cited_in": {
+   "04-why-baptism-mattered": 1
+  }
+ },
+ {
+  "id": "S24",
+  "number": 24,
+  "citation": "Robert L. Webb, Jesus' Baptism: Its Historicity and Implications, Bulletin for Biblical Research 10.2, 2000",
+  "work": "Robert L. Webb",
+  "detail": "Jesus' Baptism: Its Historicity and Implications, Bulletin for Biblical Research 10.2, 2000",
+  "domains": [
+   "biblicalstudies.gospelstudies.org.uk"
+  ],
+  "urls": [
+   "https://biblicalstudies.gospelstudies.org.uk/pdf/bbr/jesus_webb.pdf"
+  ],
+  "url": "https://biblicalstudies.gospelstudies.org.uk/pdf/bbr/jesus_webb.pdf",
+  "pdf_page": 51,
+  "cited_in": {
+   "05-john-and-jesus": 1
+  }
+ },
+ {
+  "id": "S25",
+  "number": 25,
+  "citation": "John 1, primary text",
+  "work": "John 1",
+  "detail": "primary text",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=John%201&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=John%201&version=NRSVUE",
+  "pdf_page": 51,
+  "cited_in": {
+   "05-john-and-jesus": 1,
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S26",
+  "number": 26,
+  "citation": "John 3:22-36, primary text",
+  "work": "John 3:22-36",
+  "detail": "primary text",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/john/3"
+  ],
+  "url": "https://bible.usccb.org/bible/john/3",
+  "pdf_page": 52,
+  "cited_in": {
+   "05-john-and-jesus": 1
+  }
+ },
+ {
+  "id": "S27",
+  "number": 27,
+  "citation": "John 4:1-3, primary text",
+  "work": "John 4:1-3",
+  "detail": "primary text",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/john/4"
+  ],
+  "url": "https://bible.usccb.org/bible/john/4",
+  "pdf_page": 52,
+  "cited_in": {
+   "05-john-and-jesus": 1
+  }
+ },
+ {
+  "id": "S28",
+  "number": 28,
+  "citation": "Joel Marcus, John the Baptist in History and Theology, 2018",
+  "work": "Joel Marcus",
+  "detail": "John the Baptist in History and Theology, 2018",
+  "domains": [
+   "jstor.org"
+  ],
+  "urls": [
+   "https://www.jstor.org/stable/j.ctv6mtfbq"
+  ],
+  "url": "https://www.jstor.org/stable/j.ctv6mtfbq",
+  "pdf_page": 52,
+  "cited_in": {
+   "05-john-and-jesus": 1
+  }
+ },
+ {
+  "id": "S29",
+  "number": 29,
+  "citation": "Federico Adinolfi and Joan E. Taylor, Catching John in four nets?, 2021",
+  "work": "Federico Adinolfi and Joan E. Taylor",
+  "detail": "Catching John in four nets?, 2021",
+  "domains": [
+   "kclpure.kcl.ac.uk"
+  ],
+  "urls": [
+   "https://kclpure.kcl.ac.uk/portal/en/publications/catching-john-in-four-nets-competition-qumran-sacramentalism-and-/"
+  ],
+  "url": "https://kclpure.kcl.ac.uk/portal/en/publications/catching-john-in-four-nets-competition-qumran-sacramentalism-and-/",
+  "pdf_page": 52,
+  "cited_in": {
+   "05-john-and-jesus": 1,
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S30",
+  "number": 30,
+  "citation": "Matthew 11:2-19, primary text",
+  "work": "Matthew 11:2-19",
+  "detail": "primary text",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Matthew%2011%3A2-19&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Matthew%2011%3A2-19&version=NRSVUE",
+  "pdf_page": 52,
+  "cited_in": {
+   "05-john-and-jesus": 1
+  }
+ },
+ {
+  "id": "S31",
+  "number": 31,
+  "citation": "Luke 7:18-35, primary text",
+  "work": "Luke 7:18-35",
+  "detail": "primary text",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Luke%207%3A18-35&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Luke%207%3A18-35&version=NRSVUE",
+  "pdf_page": 52,
+  "cited_in": {
+   "05-john-and-jesus": 1
+  }
+ },
+ {
+  "id": "S32",
+  "number": 32,
+  "citation": "Isaiah 40, primary text",
+  "work": "Isaiah 40",
+  "detail": "primary text",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/isaiah/40"
+  ],
+  "url": "https://bible.usccb.org/bible/isaiah/40",
+  "pdf_page": 52,
+  "cited_in": {
+   "06-prophecy-and-elijah": 1
+  }
+ },
+ {
+  "id": "S33",
+  "number": 33,
+  "citation": "Malachi 3, including the Elijah promise",
+  "work": "Malachi 3",
+  "detail": "including the Elijah promise",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/malachi/3"
+  ],
+  "url": "https://bible.usccb.org/bible/malachi/3",
+  "pdf_page": 52,
+  "cited_in": {
+   "06-prophecy-and-elijah": 1
+  }
+ },
+ {
+  "id": "S34",
+  "number": 34,
+  "citation": "Matthew 17:10-13, primary text",
+  "work": "Matthew 17:10-13",
+  "detail": "primary text",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Matthew%2017%3A10-13&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Matthew%2017%3A10-13&version=NRSVUE",
+  "pdf_page": 52,
+  "cited_in": {
+   "06-prophecy-and-elijah": 1
+  }
+ },
+ {
+  "id": "S35",
+  "number": 35,
+  "citation": "Mark 6:14-29, primary text",
+  "work": "Mark 6:14-29",
+  "detail": "primary text",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Mark%206%3A14-29&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Mark%206%3A14-29&version=NRSVUE",
+  "pdf_page": 52,
+  "cited_in": {
+   "07-why-he-was-killed": 1
+  }
+ },
+ {
+  "id": "S36",
+  "number": 36,
+  "citation": "Matthew 14:1-12, primary text",
+  "work": "Matthew 14:1-12",
+  "detail": "primary text",
+  "domains": [
+   "bible.usccb.org"
+  ],
+  "urls": [
+   "https://bible.usccb.org/bible/matthew/14"
+  ],
+  "url": "https://bible.usccb.org/bible/matthew/14",
+  "pdf_page": 52,
+  "cited_in": {
+   "07-why-he-was-killed": 1
+  }
+ },
+ {
+  "id": "S37",
+  "number": 37,
+  "citation": "Josephus, Antiquities, Book 18, chapters 5-6, Whiston translation",
+  "work": "Josephus",
+  "detail": "Antiquities, Book 18, chapters 5-6, Whiston translation",
+  "domains": [
+   "gutenberg.org"
+  ],
+  "urls": [
+   "https://www.gutenberg.org/files/2848/2848-h/2848-h.htm"
+  ],
+  "url": "https://www.gutenberg.org/files/2848/2848-h/2848-h.htm",
+  "pdf_page": 52,
+  "cited_in": {
+   "07-why-he-was-killed": 1
+  }
+ },
+ {
+  "id": "S38",
+  "number": 38,
+  "citation": "Acts 18:24-28, primary text",
+  "work": "Acts 18:24-28",
+  "detail": "primary text",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Acts%2018%3A24-28&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Acts%2018%3A24-28&version=NRSVUE",
+  "pdf_page": 52,
+  "cited_in": {
+   "08-his-followers": 1
+  }
+ },
+ {
+  "id": "S39",
+  "number": 39,
+  "citation": "ACOR, Excavations at the Fortified Royal Palace of Machaerus, Győző Vörös research overview, 2016",
+  "work": "ACOR",
+  "detail": "Excavations at the Fortified Royal Palace of Machaerus, Győző Vörös research overview, 2016",
+  "domains": [
+   "publications.acorjordan.org"
+  ],
+  "urls": [
+   "https://publications.acorjordan.org/2016/04/10/excavations-at-the-fortified-royal-palace-of-machaerus-an-acor-video-lecture-by-archaeologist-gyozo-voros/"
+  ],
+  "url": "https://publications.acorjordan.org/2016/04/10/excavations-at-the-fortified-royal-palace-of-machaerus-an-acor-video-lecture-by-archaeologist-gyozo-voros/",
+  "pdf_page": 52,
+  "cited_in": {
+   "09-archaeology-and-relics": 1
+  }
+ },
+ {
+  "id": "S40",
+  "number": 40,
+  "citation": "UNESCO, Baptism Site \"Bethany Beyond the Jordan\" (Al-Maghtas)",
+  "work": "UNESCO",
+  "detail": "Baptism Site \"Bethany Beyond the Jordan\" (Al-Maghtas)",
+  "domains": [
+   "whc.unesco.org"
+  ],
+  "urls": [
+   "https://whc.unesco.org/en/list/1446/"
+  ],
+  "url": "https://whc.unesco.org/en/list/1446/",
+  "pdf_page": 53,
+  "cited_in": {
+   "09-archaeology-and-relics": 1
+  }
+ },
+ {
+  "id": "S41",
+  "number": 41,
+  "citation": "Kostova and colleagues, AMS dating and ancient DNA analysis of bone relics associated with St John the Baptist, Journal of Archaeological Science: Reports 29, 2020, 102082 researchprofiles.ku.dk",
+  "work": "Kostova and colleagues",
+  "detail": "AMS dating and ancient DNA analysis of bone relics associated with St John the Baptist, Journal of Archaeological Science: Reports 29, 2020, 102082 researchprofiles.ku.dk",
+  "domains": [],
+  "urls": [
+   "https://researchprofiles.ku.dk/en/publications/ams-dating-and-ancient-dna-analysis-of-bone-relics-associated-wit/"
+  ],
+  "url": "https://researchprofiles.ku.dk/en/publications/ams-dating-and-ancient-dna-analysis-of-bone-relics-associated-wit/",
+  "pdf_page": 53,
+  "cited_in": {
+   "09-archaeology-and-relics": 1
+  }
+ },
+ {
+  "id": "S42",
+  "number": 42,
+  "citation": "James F. Strange, review of Shimon Gibson's The Cave of John the Baptist, 2011",
+  "work": "James F. Strange",
+  "detail": "review of Shimon Gibson's The Cave of John the Baptist, 2011",
+  "domains": [
+   "biblicalarchaeology.org"
+  ],
+  "urls": [
+   "https://www.biblicalarchaeology.org/reviews/the-cave-of-john-the-baptist/"
+  ],
+  "url": "https://www.biblicalarchaeology.org/reviews/the-cave-of-john-the-baptist/",
+  "pdf_page": 53,
+  "cited_in": {
+   "09-archaeology-and-relics": 1
+  }
+ },
+ {
+  "id": "S43",
+  "number": 43,
+  "citation": "Jeffrey P. García, \"A Voice Cries Out\": Reassessing John the Baptist's Wilderness Relationship to Qumran, JJMJS 9, 2022",
+  "work": "Jeffrey P. García",
+  "detail": "\"A Voice Cries Out\": Reassessing John the Baptist's Wilderness Relationship to Qumran, JJMJS 9, 2022",
+  "domains": [
+   "jjmjs.org"
+  ],
+  "urls": [
+   "https://www.jjmjs.org/uploads/1/1/9/0/11908749/garcia_voice_cries_in_the_wilderness_2022.pdf"
+  ],
+  "url": "https://www.jjmjs.org/uploads/1/1/9/0/11908749/garcia_voice_cries_in_the_wilderness_2022.pdf",
+  "pdf_page": 53,
+  "cited_in": {
+   "09-archaeology-and-relics": 1
+  }
+ },
+ {
+  "id": "S44",
+  "number": 44,
+  "citation": "Orthodox Church in America, “Synaxis of the Holy Glorious Prophet, Forerunner and Baptist John,” official liturgical account",
+  "work": "Orthodox Church in America",
+  "detail": "“Synaxis of the Holy Glorious Prophet, Forerunner and Baptist John,” official liturgical account",
+  "domains": [
+   "oca.org"
+  ],
+  "urls": [
+   "https://www.oca.org/saints/lives/1993/01/07/100109-synaxis-of-the-holy-glorious-prophet-forerunner-and-baptist-john"
+  ],
+  "url": "https://www.oca.org/saints/lives/1993/01/07/100109-synaxis-of-the-holy-glorious-prophet-forerunner-and-baptist-john",
+  "pdf_page": 53,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S45",
+  "number": 45,
+  "citation": "Greek Orthodox Patriarchate of Antioch, “Synaxis of the Holy Glorious Prophet, Forerunner and Baptist John,” official account",
+  "work": "Greek Orthodox Patriarchate of Antioch",
+  "detail": "“Synaxis of the Holy Glorious Prophet, Forerunner and Baptist John,” official account",
+  "domains": [
+   "antiochpatriarchate.org"
+  ],
+  "urls": [
+   "https://antiochpatriarchate.org/en/page/synaxis-of-the-holy-glorious-prophet-forerunner-and-baptist-john/947/"
+  ],
+  "url": "https://antiochpatriarchate.org/en/page/synaxis-of-the-holy-glorious-prophet-forerunner-and-baptist-john/947/",
+  "pdf_page": 53,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S46",
+  "number": 46,
+  "citation": "Vatican News, “Solemnity of the Nativity of Saint John the Baptist,” liturgical account",
+  "work": "Vatican News",
+  "detail": "“Solemnity of the Nativity of Saint John the Baptist,” liturgical account",
+  "domains": [
+   "vaticannews.va"
+  ],
+  "urls": [
+   "https://www.vaticannews.va/en/liturgical-holidays/solemnity-of-the-nativity-of-saint-john-the-baptist.html"
+  ],
+  "url": "https://www.vaticannews.va/en/liturgical-holidays/solemnity-of-the-nativity-of-saint-john-the-baptist.html",
+  "pdf_page": 53,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S47",
+  "number": 47,
+  "citation": "Vatican City State, “June 24: Nativity of Saint John the Baptist,” official account",
+  "work": "Vatican City State",
+  "detail": "“June 24: Nativity of Saint John the Baptist,” official account",
+  "domains": [
+   "vaticanstate.va"
+  ],
+  "urls": [
+   "https://www.vaticanstate.va/en/component/content/article/june-24-nativity-of-saint-john-the-baptist.html?Itemid=216&catid=51"
+  ],
+  "url": "https://www.vaticanstate.va/en/component/content/article/june-24-nativity-of-saint-john-the-baptist.html?Itemid=216&catid=51",
+  "pdf_page": 53,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S48",
+  "number": 48,
+  "citation": "Metropolitan Museum of Art, “Painted Copy of Deesis Mosaic,” collection catalogue",
+  "work": "Metropolitan Museum of Art",
+  "detail": "“Painted Copy of Deesis Mosaic,” collection catalogue",
+  "domains": [
+   "metmuseum.org"
+  ],
+  "urls": [
+   "https://www.metmuseum.org/art/collection/search/467825"
+  ],
+  "url": "https://www.metmuseum.org/art/collection/search/467825",
+  "pdf_page": 53,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S49",
+  "number": 49,
+  "citation": "Musée du Louvre, “Saint John the Baptist by Leonardo da Vinci,” 2022 presse.louvre.fr",
+  "work": "Musée du Louvre",
+  "detail": "“Saint John the Baptist by Leonardo da Vinci,” 2022 presse.louvre.fr",
+  "domains": [],
+  "urls": [
+   "https://presse.louvre.fr/le-musee-du-louvre-prete-le-saint-jean-baptiste-de-leonard-de-vinci-2/?lang=en"
+  ],
+  "url": "https://presse.louvre.fr/le-musee-du-louvre-prete-le-saint-jean-baptiste-de-leonard-de-vinci-2/?lang=en",
+  "pdf_page": 53,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S50",
+  "number": 50,
+  "citation": "St John’s Co-Cathedral Foundation, “Restoration of the Oratory,” institutional history",
+  "work": "St John’s Co-Cathedral Foundation",
+  "detail": "“Restoration of the Oratory,” institutional history",
+  "domains": [
+   "stjohnscocathedral.com"
+  ],
+  "urls": [
+   "https://www.stjohnscocathedral.com/portfolio-item/restoration-of-the-oratory/"
+  ],
+  "url": "https://www.stjohnscocathedral.com/portfolio-item/restoration-of-the-oratory/",
+  "pdf_page": 53,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S51",
+  "number": 51,
+  "citation": "National Museum of Western Art, “Saint John the Baptist Preaching,” collection catalogue collection.nmwa.go.jp",
+  "work": "National Museum of Western Art",
+  "detail": "“Saint John the Baptist Preaching,” collection catalogue collection.nmwa.go.jp",
+  "domains": [],
+  "urls": [
+   "https://collection.nmwa.go.jp/en/S.1959-0052.html"
+  ],
+  "url": "https://collection.nmwa.go.jp/en/S.1959-0052.html",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S52",
+  "number": 52,
+  "citation": "Tertullian, On Baptism, chapter 10",
+  "work": "Tertullian",
+  "detail": "On Baptism, chapter 10",
+  "domains": [
+   "newadvent.org"
+  ],
+  "urls": [
+   "https://www.newadvent.org/fathers/0321.htm"
+  ],
+  "url": "https://www.newadvent.org/fathers/0321.htm",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S53",
+  "number": 53,
+  "citation": "Chrysostom, Homily 36 on Matthew, sections 1-2",
+  "work": "Chrysostom",
+  "detail": "Homily 36 on Matthew, sections 1-2",
+  "domains": [
+   "newadvent.org"
+  ],
+  "urls": [
+   "https://www.newadvent.org/fathers/200136.htm"
+  ],
+  "url": "https://www.newadvent.org/fathers/200136.htm",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S54",
+  "number": 54,
+  "citation": "Augustine, Sermon 293.1-3, Spanish translation",
+  "work": "Augustine",
+  "detail": "Sermon 293.1-3, Spanish translation",
+  "domains": [
+   "augustinus.it"
+  ],
+  "urls": [
+   "https://www.augustinus.it/spagnolo/discorsi/discorso_407_testo.htm"
+  ],
+  "url": "https://www.augustinus.it/spagnolo/discorsi/discorso_407_testo.htm",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S55",
+  "number": 55,
+  "citation": "Tractates on John 14.5",
+  "work": "Tractates on John 14.5",
+  "detail": "",
+  "domains": [
+   "newadvent.org"
+  ],
+  "urls": [
+   "https://www.newadvent.org/fathers/1701014.htm"
+  ],
+  "url": "https://www.newadvent.org/fathers/1701014.htm",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S56",
+  "number": 56,
+  "citation": "Kurt Rudolph, “Mandaeans ii. The Mandaean Religion,” Encyclopaedia Iranica, 2008",
+  "work": "Kurt Rudolph",
+  "detail": "“Mandaeans ii. The Mandaean Religion,” Encyclopaedia Iranica, 2008",
+  "domains": [
+   "iranicaonline.org"
+  ],
+  "urls": [
+   "https://www.iranicaonline.org/articles/mandaeans/mandaeans-ii-the-mandaean-religion/"
+  ],
+  "url": "https://www.iranicaonline.org/articles/mandaeans/mandaeans-ii-the-mandaean-religion/",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 2
+  }
+ },
+ {
+  "id": "S57",
+  "number": 57,
+  "citation": "Edmondo Lupieri, “Mandaeans i. History,” Encyclopaedia Iranica, 2008",
+  "work": "Edmondo Lupieri",
+  "detail": "“Mandaeans i. History,” Encyclopaedia Iranica, 2008",
+  "domains": [
+   "iranicaonline.org"
+  ],
+  "urls": [
+   "https://www.iranicaonline.org/articles/mandaeans/mandaeans-i-history/"
+  ],
+  "url": "https://www.iranicaonline.org/articles/mandaeans/mandaeans-i-history/",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S58",
+  "number": 58,
+  "citation": "Charles G. Häberl and James F. McGrath, eds., The Mandaean Book of John: Critical Edition, Translation, and Commentary, 2020, prefatory discussion",
+  "work": "Charles G. Häberl and James F. McGrath",
+  "detail": "eds., The Mandaean Book of John: Critical Edition, Translation, and Commentary, 2020, prefatory discussion",
+  "domains": [
+   "api.pageplace.de"
+  ],
+  "urls": [
+   "https://api.pageplace.de/preview/DT0400.9783110487862_A33482931/preview-9783110487862_A33482931.pdf"
+  ],
+  "url": "https://api.pageplace.de/preview/DT0400.9783110487862_A33482931/preview-9783110487862_A33482931.pdf",
+  "pdf_page": 54,
+  "cited_in": {}
+ },
+ {
+  "id": "S59",
+  "number": 59,
+  "citation": "Häberl and McGrath, The Mandaean Book of John: Text and Translation, 2020, chapters 18-33",
+  "work": "Häberl and McGrath",
+  "detail": "The Mandaean Book of John: Text and Translation, 2020, chapters 18-33",
+  "domains": [
+   "butler.elsevierpure.com"
+  ],
+  "urls": [
+   "https://butler.elsevierpure.com/ws/portalfiles/portal/40125718/The%20Mandaean%20Book%20of%20John_%20Text%20and%20Translation.pdf"
+  ],
+  "url": "https://butler.elsevierpure.com/ws/portalfiles/portal/40125718/The%20Mandaean%20Book%20of%20John_%20Text%20and%20Translation.pdf",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S60",
+  "number": 60,
+  "citation": "James F. McGrath, “Polemic, Redaction, and History in the Mandaean Book of John: The Case of the Lightworld Visitors to Jerusalem,” ARAM Periodical 23, 2013, 373-380",
+  "work": "James F. McGrath",
+  "detail": "“Polemic, Redaction, and History in the Mandaean Book of John: The Case of the Lightworld Visitors to Jerusalem,” ARAM Periodical 23, 2013, 373-380",
+  "domains": [
+   "digitalcommons.butler.edu"
+  ],
+  "urls": [
+   "https://digitalcommons.butler.edu/facsch_papers/940/"
+  ],
+  "url": "https://digitalcommons.butler.edu/facsch_papers/940/",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S61",
+  "number": 61,
+  "citation": "Charles G. Häberl, “The Mandaean Death of John,” Alpha 1, 2017, 35-36",
+  "work": "Charles G. Häberl",
+  "detail": "“The Mandaean Death of John,” Alpha 1, 2017, 35-36",
+  "domains": [
+   "umass.edu"
+  ],
+  "urls": [
+   "https://www.umass.edu/wsp/publications/journals/alphav1/a1-08-mandaean-death.pdf"
+  ],
+  "url": "https://www.umass.edu/wsp/publications/journals/alphav1/a1-08-mandaean-death.pdf",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S62",
+  "number": 62,
+  "citation": "Qur’an 3:38-41, especially 3:39, Quran.com text and translation",
+  "work": "Qur’an 3:38-41",
+  "detail": "especially 3:39, Quran.com text and translation",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/3/39"
+  ],
+  "url": "https://quran.com/3/39",
+  "pdf_page": 54,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S63",
+  "number": 63,
+  "citation": "Qur’an 6:85",
+  "work": "Qur’an 6:85",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/6/85"
+  ],
+  "url": "https://quran.com/6/85",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1,
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S64",
+  "number": 64,
+  "citation": "Qur’an 19:2-11",
+  "work": "Qur’an 19:2-11",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/19/1-15"
+  ],
+  "url": "https://quran.com/19/1-15",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1,
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S65",
+  "number": 65,
+  "citation": "Qur’an 19:12",
+  "work": "Qur’an 19:12",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/19/12"
+  ],
+  "url": "https://quran.com/19/12",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S66",
+  "number": 66,
+  "citation": "Qur’an 19:13",
+  "work": "Qur’an 19:13",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/19/13"
+  ],
+  "url": "https://quran.com/19/13",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S67",
+  "number": 67,
+  "citation": "Qur’an 19:14",
+  "work": "Qur’an 19:14",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/19/14"
+  ],
+  "url": "https://quran.com/19/14",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S68",
+  "number": 68,
+  "citation": "Qur’an 19:15",
+  "work": "Qur’an 19:15",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/19/15"
+  ],
+  "url": "https://quran.com/19/15",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S69",
+  "number": 69,
+  "citation": "Qur’an 21:89-90",
+  "work": "Qur’an 21:89-90",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/21/89-90"
+  ],
+  "url": "https://quran.com/21/89-90",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1,
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S70",
+  "number": 70,
+  "citation": "Sahih al-Bukhari 3207",
+  "work": "Sahih al-Bukhari 3207",
+  "detail": "",
+  "domains": [
+   "sunnah.com"
+  ],
+  "urls": [
+   "https://sunnah.com/bukhari:3207"
+  ],
+  "url": "https://sunnah.com/bukhari:3207",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S71",
+  "number": 71,
+  "citation": "Jamiʿ al-Tirmidhi 2863",
+  "work": "Jamiʿ al-Tirmidhi 2863",
+  "detail": "",
+  "domains": [
+   "sunnah.com"
+  ],
+  "urls": [
+   "https://sunnah.com/tirmidhi:2863"
+  ],
+  "url": "https://sunnah.com/tirmidhi:2863",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S72",
+  "number": 72,
+  "citation": "Mahmut Aydın, “Yahyâ,” TDV İslâm Ansiklopedisi, 2013",
+  "work": "Mahmut Aydın",
+  "detail": "“Yahyâ,” TDV İslâm Ansiklopedisi, 2013",
+  "domains": [
+   "islamansiklopedisi.org.tr"
+  ],
+  "urls": [
+   "https://islamansiklopedisi.org.tr/yahya"
+  ],
+  "url": "https://islamansiklopedisi.org.tr/yahya",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S73",
+  "number": 73,
+  "citation": "University of Notre Dame, “Great Mosque of Damascus: Shrine of John the Baptist (Yahyā) within the mosque,” architectural collection",
+  "work": "University of Notre Dame",
+  "detail": "“Great Mosque of Damascus: Shrine of John the Baptist (Yahyā) within the mosque,” architectural collection",
+  "domains": [
+   "marble.nd.edu"
+  ],
+  "urls": [
+   "https://marble.nd.edu/item/fbc526e5-9459-4a88-9233-b4744a8170a9"
+  ],
+  "url": "https://marble.nd.edu/item/fbc526e5-9459-4a88-9233-b4744a8170a9",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S74",
+  "number": 74,
+  "citation": "Pistis Sophia, chapter 7, G. R. S. Mead translation, 1921",
+  "work": "Pistis Sophia",
+  "detail": "chapter 7, G. R. S. Mead translation, 1921",
+  "domains": [
+   "sacred-texts.com"
+  ],
+  "urls": [
+   "https://sacred-texts.com/book/pistis-sophia/chapter-7"
+  ],
+  "url": "https://sacred-texts.com/book/pistis-sophia/chapter-7",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1,
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S75",
+  "number": 75,
+  "citation": "Caroline Crews, “Pistis Sophia,” NASSCAL e-Clavis: Christian Apocrypha, 2021, updated 2024",
+  "work": "Caroline Crews",
+  "detail": "“Pistis Sophia,” NASSCAL e-Clavis: Christian Apocrypha, 2021, updated 2024",
+  "domains": [
+   "nasscal.com"
+  ],
+  "urls": [
+   "https://www.nasscal.com/e-clavis-christian-apocrypha/pistis-sophia/"
+  ],
+  "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/pistis-sophia/",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S76",
+  "number": 76,
+  "citation": "Church of Jesus Christ of Latter-day Saints, “Restoration of the Aaronic Priesthood,” Church History Topics",
+  "work": "Church of Jesus Christ of Latter-day Saints",
+  "detail": "“Restoration of the Aaronic Priesthood,” Church History Topics",
+  "domains": [
+   "churchofjesuschrist.org"
+  ],
+  "urls": [
+   "https://www.churchofjesuschrist.org/study/history/topics/restoration-of-the-aaronic-priesthood?lang=eng"
+  ],
+  "url": "https://www.churchofjesuschrist.org/study/history/topics/restoration-of-the-aaronic-priesthood?lang=eng",
+  "pdf_page": 55,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S77",
+  "number": 77,
+  "citation": "ʿAbdu’l-Bahá, Some Answered Questions, chapters 19-20 and 33, authoritative Bahá’í Reference Library edition",
+  "work": "ʿAbdu’l-Bahá",
+  "detail": "Some Answered Questions, chapters 19-20 and 33, authoritative Bahá’í Reference Library edition",
+  "domains": [
+   "bahai.org"
+  ],
+  "urls": [
+   "https://www.bahai.org/library/authoritative-texts/abdul-baha/some-answered-questions/7"
+  ],
+  "url": "https://www.bahai.org/library/authoritative-texts/abdul-baha/some-answered-questions/7",
+  "pdf_page": 56,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S78",
+  "number": 78,
+  "citation": "United Grand Lodge of England, “History of Freemasonry,” official historical account",
+  "work": "United Grand Lodge of England",
+  "detail": "“History of Freemasonry,” official historical account",
+  "domains": [
+   "ugle.org.uk"
+  ],
+  "urls": [
+   "https://www.ugle.org.uk/discover-freemasonry/history-freemasonry"
+  ],
+  "url": "https://www.ugle.org.uk/discover-freemasonry/history-freemasonry",
+  "pdf_page": 56,
+  "cited_in": {
+   "10-afterlives": 1
+  }
+ },
+ {
+  "id": "S79",
+  "number": 79,
+  "citation": "Matthew, beginning with chapter 3",
+  "work": "Matthew",
+  "detail": "beginning with chapter 3",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Matthew%203&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Matthew%203&version=NRSVUE",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S80",
+  "number": 80,
+  "citation": "Luke, beginning with chapter 1",
+  "work": "Luke",
+  "detail": "beginning with chapter 1",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Luke%201&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Luke%201&version=NRSVUE",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S81",
+  "number": 81,
+  "citation": "Acts 18-19",
+  "work": "Acts 18-19",
+  "detail": "",
+  "domains": [
+   "biblegateway.com"
+  ],
+  "urls": [
+   "https://www.biblegateway.com/passage/?search=Acts%2018%3A24-19%3A7&version=NRSVUE"
+  ],
+  "url": "https://www.biblegateway.com/passage/?search=Acts%2018%3A24-19%3A7&version=NRSVUE",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S82",
+  "number": 82,
+  "citation": "Josephus, Antiquities 18.116-119, corresponding to Book XVIII, chapter 5, section 2 in Whiston's translation",
+  "work": "Josephus",
+  "detail": "Antiquities 18.116-119, corresponding to Book XVIII, chapter 5, section 2 in Whiston's translation",
+  "domains": [
+   "ccel.org"
+  ],
+  "urls": [
+   "https://www.ccel.org/ccel/josephus/works/files/ant-18.htm"
+  ],
+  "url": "https://www.ccel.org/ccel/josephus/works/files/ant-18.htm",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S83",
+  "number": 83,
+  "citation": "Qur'an 3:38-41",
+  "work": "Qur'an 3:38-41",
+  "detail": "",
+  "domains": [
+   "quran.com"
+  ],
+  "urls": [
+   "https://quran.com/3/38-41"
+  ],
+  "url": "https://quran.com/3/38-41",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S84",
+  "number": 84,
+  "citation": "Gospel of Thomas 46",
+  "work": "Gospel of Thomas 46",
+  "detail": "",
+  "domains": [
+   "earlychristianwritings.com"
+  ],
+  "urls": [
+   "https://www.earlychristianwritings.com/thomas/gospelthomas46.html"
+  ],
+  "url": "https://www.earlychristianwritings.com/thomas/gospelthomas46.html",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S85",
+  "number": 85,
+  "citation": "Gospel of the Hebrews / Gospel of the Nazarenes: scholarly fragment guide",
+  "work": "Gospel of the Hebrews / Gospel of the Nazarenes: scholarly fragment guide",
+  "detail": "",
+  "domains": [
+   "nasscal.com"
+  ],
+  "urls": [
+   "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-hebrews/"
+  ],
+  "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-hebrews/",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S86",
+  "number": 86,
+  "citation": "Gospel of the Ebionites: fragments and source guide",
+  "work": "Gospel of the Ebionites: fragments and source guide",
+  "detail": "",
+  "domains": [
+   "nasscal.com"
+  ],
+  "urls": [
+   "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-ebionites/"
+  ],
+  "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-the-ebionites/",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S87",
+  "number": 87,
+  "citation": "Protevangelium of James 22-24",
+  "work": "Protevangelium of James 22-24",
+  "detail": "",
+  "domains": [
+   "earlychristianwritings.com"
+  ],
+  "urls": [
+   "https://www.earlychristianwritings.com/text/infancyjames-roberts.html"
+  ],
+  "url": "https://www.earlychristianwritings.com/text/infancyjames-roberts.html",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S88",
+  "number": 88,
+  "citation": "Pseudo-Clementine Recognitions 1.54 and 1.60",
+  "work": "Pseudo-Clementine Recognitions 1.54 and 1.60",
+  "detail": "",
+  "domains": [
+   "newadvent.org"
+  ],
+  "urls": [
+   "https://www.newadvent.org/fathers/080401.htm"
+  ],
+  "url": "https://www.newadvent.org/fathers/080401.htm",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-a-reading-map": 1
+  }
+ },
+ {
+  "id": "S89",
+  "number": 89,
+  "citation": "Pseudo-Clementine Homilies 2.23-24",
+  "work": "Pseudo-Clementine Homilies 2.23-24",
+  "detail": "",
+  "domains": [
+   "newadvent.org"
+  ],
+  "urls": [
+   "https://www.newadvent.org/fathers/080802.htm"
+  ],
+  "url": "https://www.newadvent.org/fathers/080802.htm",
+  "pdf_page": 56,
+  "cited_in": {
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S90",
+  "number": 90,
+  "citation": "John the Baptizer and Prophet: A Socio-Historical Study (Sheffield Academic Press, 1991)",
+  "work": "John the Baptizer and Prophet: A Socio-Historical Study (Sheffield Academic Press",
+  "detail": "1991)",
+  "domains": [
+   "bloomsbury.com"
+  ],
+  "urls": [
+   "https://www.bloomsbury.com/us/john-the-baptizer-and-prophet-9780567314291/"
+  ],
+  "url": "https://www.bloomsbury.com/us/john-the-baptizer-and-prophet-9780567314291/",
+  "pdf_page": 57,
+  "cited_in": {
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S91",
+  "number": 91,
+  "citation": "A Marginal Jew, volume II: Mentor, Message, and Miracles (1994)",
+  "work": "A Marginal Jew",
+  "detail": "volume II: Mentor, Message, and Miracles (1994)",
+  "domains": [
+   "yalebooks.yale.edu"
+  ],
+  "urls": [
+   "https://yalebooks.yale.edu/book/9780300140330/a-marginal-jew-rethinking-the-historical-jesus-volume-ii/"
+  ],
+  "url": "https://yalebooks.yale.edu/book/9780300140330/a-marginal-jew-rethinking-the-historical-jesus-volume-ii/",
+  "pdf_page": 57,
+  "cited_in": {
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S92",
+  "number": 92,
+  "citation": "John the Baptist in History and Theology (University of South Carolina Press, 2018)",
+  "work": "John the Baptist in History and Theology (University of South Carolina Press",
+  "detail": "2018)",
+  "domains": [
+   "divinity.duke.edu"
+  ],
+  "urls": [
+   "https://divinity.duke.edu/news/books/john-baptist-history-and-theology?language=es"
+  ],
+  "url": "https://divinity.duke.edu/news/books/john-baptist-history-and-theology?language=es",
+  "pdf_page": 57,
+  "cited_in": {
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S93",
+  "number": 93,
+  "citation": "Christmaker: A Life of John the Baptist (2024)",
+  "work": "Christmaker: A Life of John the Baptist (2024)",
+  "detail": "",
+  "domains": [
+   "eerdmans.com"
+  ],
+  "urls": [
+   "https://www.eerdmans.com/9781467467995/christmaker/"
+  ],
+  "url": "https://www.eerdmans.com/9781467467995/christmaker/",
+  "pdf_page": 57,
+  "cited_in": {
+   "appendix-b-scholarship": 1
+  }
+ },
+ {
+  "id": "S94",
+  "number": 94,
+  "citation": "“Contemporary Research and Debated Issues on John the Baptist” (2024)",
+  "work": "“Contemporary Research and Debated Issues on John the Baptist” (2024)",
+  "detail": "",
+  "domains": [
+   "journals.sagepub.com"
+  ],
+  "urls": [
+   "https://journals.sagepub.com/doi/10.1177/1476993X241270366"
+  ],
+  "url": "https://journals.sagepub.com/doi/10.1177/1476993X241270366",
+  "pdf_page": 57,
+  "cited_in": {
+   "appendix-b-scholarship": 1
+  }
+ }
+]

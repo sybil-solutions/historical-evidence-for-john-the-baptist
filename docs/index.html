@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>John the Baptist — evidence archive</title>
+<meta name="description" content="A searchable archive of the sources cited in a research dossier on John the Baptist: scripture, Josephus and Origen, the Quran, non-canonical gospels, archaeology, Mandaean and Islamic tradition, and the numbered source notes.">
+<link rel="stylesheet" href="./assets/app.css?v=3ca216ad06">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="#/" data-link>
+    <span class="brand-mark" aria-hidden="true">✦</span>
+    <span class="brand-text">John the Baptist <span class="muted">— evidence archive</span></span>
+  </a>
+  <form class="searchbox" role="search" id="search-form" autocomplete="off">
+    <input id="q" name="q" type="search" placeholder="Search the archive   /"
+           aria-label="Search the archive" spellcheck="false">
+    <div class="search-results" id="search-results" role="listbox" aria-label="Search results" hidden></div>
+  </form>
+  <div class="topbar-actions">
+    <button id="sources-btn" class="icon-btn with-label" type="button" aria-haspopup="dialog" aria-controls="sources" title="Every source in the archive (s)">
+      <span aria-hidden="true">☰</span><span class="btn-label">All sources</span>
+    </button>
+    <button id="theme" class="icon-btn" type="button" aria-label="Toggle colour theme" title="Toggle colour theme">◐</button>
+    <button id="nav-toggle" class="icon-btn" type="button" aria-label="Toggle index" aria-expanded="false" title="Index">☰</button>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="sidebar" id="sidebar" aria-label="Archive index">
+    <div class="sidebar-inner" id="nav"></div>
+    <div class="sidebar-foot">
+      <a href="https://github.com/sybil-solutions/historical-evidence-for-john-the-baptist" data-ext>repository</a>
+      <span class="muted">·</span>
+      <a href="./data/docs.json" data-ext>data</a>
+    </div>
+  </aside>
+
+  <main id="main" class="main" tabindex="-1">
+    <noscript>
+      <p class="notice">This archive needs JavaScript for search and reading. Every document is also a Markdown file in the
+      <a href="https://github.com/sybil-solutions/historical-evidence-for-john-the-baptist">repository</a>.</p>
+    </noscript>
+  </main>
+
+  <aside class="toc" id="toc" aria-label="On this page" hidden></aside>
+</div>
+
+<aside class="panel" id="panel" hidden aria-live="polite"></aside>
+
+<div class="preview" id="preview" hidden role="tooltip"></div>
+
+<div class="dialog" id="sources" role="dialog" aria-modal="true" aria-labelledby="sources-title" hidden>
+  <div class="dialog-box">
+    <div class="dialog-head">
+      <h2 id="sources-title">Every source in the archive</h2>
+      <button class="icon-btn" type="button" data-close-sources aria-label="Close sources list">✕</button>
+    </div>
+    <div class="dialog-filter">
+      <input id="sources-filter" type="search" placeholder="Filter by title, collection, or source name" aria-label="Filter sources" autocomplete="off">
+    </div>
+    <div class="dialog-list" id="sources-list" role="listbox" aria-label="Sources"></div>
+    <div class="dialog-foot" id="sources-foot"></div>
+  </div>
+</div>
+
+<script src="./assets/app.js?v=ba33010e90"></script>
+</body>
+</html>

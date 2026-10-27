@@ -401,7 +401,8 @@
     "S10",
     "S11",
     "S16",
-    "S31"
+    "S31",
+    "S80"
    ]
   },
   {
@@ -460,7 +461,8 @@
     "S18",
     "S30",
     "S34",
-    "S36"
+    "S36",
+    "S79"
    ]
   },
   {
@@ -572,7 +574,9 @@
    "words": 5789,
    "chars": 32895,
    "excerpt": "The following translation has been committed to the public domain and may be freely copied and used, changed or unchanged, for any purpose. It is based on the Coptic text of Nag Hammadi Codex II, 2. For information about the surviving manuscripts of the Gospel of Thomas, see the [Manuscript Informat",
-   "refs": []
+   "refs": [
+    "S84"
+   ]
   },
   {
    "id": "gospels/protevangelium-of-james",
@@ -588,7 +592,9 @@
    "words": 6587,
    "chars": 36097,
    "excerpt": "The following translation has been committed to the public domain and may be freely copied and used, changed or unchanged, for any purpose. It is principally based on the critical Greek text of Émile de Strycker. For information about the surviving manuscripts of the Infancy Gospel of James, see the",
-   "refs": []
+   "refs": [
+    "S87"
+   ]
   },
   {
    "id": "witnesses/josephus-antiquities-18",
@@ -787,9 +793,9 @@
    "source_url": "https://www.livius.org/sources/content/josephus/jewish-antiquities/josephus-on-john-the-baptist/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 513,
-   "excerpt": "",
+   "words": 68,
+   "chars": 678,
+   "excerpt": "Read the [mirrored text](/doc/witnesses/josephus-antiquities-18).",
    "refs": []
   },
   {
@@ -915,9 +921,9 @@
    "source_url": "https://www.newadvent.org/fathers/04161.htm",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 388,
-   "excerpt": "",
+   "words": 68,
+   "chars": 559,
+   "excerpt": "Read the [mirrored text](/doc/witnesses/origen-contra-celsum-1-47).",
    "refs": []
   },
   {
@@ -931,8 +937,8 @@
    "source_url": "https://bible.usccb.org/bible/luke/1",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 62,
-   "chars": 383,
+   "words": 72,
+   "chars": 491,
    "excerpt": "",
    "refs": []
   },
@@ -947,8 +953,8 @@
    "source_url": "https://bible.usccb.org/bible/luke/3",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 62,
-   "chars": 383,
+   "words": 72,
+   "chars": 491,
    "excerpt": "",
    "refs": []
   },
@@ -963,8 +969,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Mark%201&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 60,
-   "chars": 457,
+   "words": 70,
+   "chars": 565,
    "excerpt": "",
    "refs": []
   },
@@ -979,8 +985,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=2%20Kings%201%3A8&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 60,
-   "chars": 470,
+   "words": 70,
+   "chars": 587,
    "excerpt": "",
    "refs": []
   },
@@ -1011,8 +1017,8 @@
    "source_url": "https://bible.usccb.org/bible/matthew/3",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 62,
-   "chars": 396,
+   "words": 72,
+   "chars": 513,
    "excerpt": "",
    "refs": []
   },
@@ -1027,8 +1033,8 @@
    "source_url": "https://bible.usccb.org/bible/luke/11",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 53,
-   "chars": 342,
+   "words": 63,
+   "chars": 450,
    "excerpt": "",
    "refs": []
   },
@@ -1059,8 +1065,8 @@
    "source_url": "https://bible.usccb.org/bible/matthew/21",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 391,
+   "words": 68,
+   "chars": 508,
    "excerpt": "",
    "refs": []
   },
@@ -1123,8 +1129,8 @@
    "source_url": "https://bible.usccb.org/bible/acts/19",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 375,
+   "words": 68,
+   "chars": 483,
    "excerpt": "",
    "refs": []
   },
@@ -1139,8 +1145,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Romans%206%3A1-11&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 62,
-   "chars": 488,
+   "words": 72,
+   "chars": 602,
    "excerpt": "",
    "refs": []
   },
@@ -1171,8 +1177,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=John%201&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 60,
-   "chars": 451,
+   "words": 70,
+   "chars": 559,
    "excerpt": "",
    "refs": []
   },
@@ -1187,8 +1193,8 @@
    "source_url": "https://bible.usccb.org/bible/john/3",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 369,
+   "words": 68,
+   "chars": 477,
    "excerpt": "",
    "refs": []
   },
@@ -1203,8 +1209,8 @@
    "source_url": "https://bible.usccb.org/bible/john/4",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 365,
+   "words": 68,
+   "chars": 473,
    "excerpt": "",
    "refs": []
   },
@@ -1251,8 +1257,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Matthew%2011%3A2-19&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 462,
+   "words": 68,
+   "chars": 579,
    "excerpt": "",
    "refs": []
   },
@@ -1267,8 +1273,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Luke%207%3A18-35&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 450,
+   "words": 68,
+   "chars": 558,
    "excerpt": "",
    "refs": []
   },
@@ -1283,8 +1289,8 @@
    "source_url": "https://bible.usccb.org/bible/isaiah/40",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 374,
+   "words": 68,
+   "chars": 488,
    "excerpt": "",
    "refs": []
   },
@@ -1299,8 +1305,8 @@
    "source_url": "https://bible.usccb.org/bible/malachi/3",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 62,
-   "chars": 406,
+   "words": 72,
+   "chars": 523,
    "excerpt": "",
    "refs": []
   },
@@ -1315,8 +1321,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Matthew%2017%3A10-13&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 471,
+   "words": 68,
+   "chars": 588,
    "excerpt": "",
    "refs": []
   },
@@ -1331,8 +1337,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Mark%206%3A14-29&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 453,
+   "words": 68,
+   "chars": 561,
    "excerpt": "",
    "refs": []
   },
@@ -1347,8 +1353,8 @@
    "source_url": "https://bible.usccb.org/bible/matthew/14",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 386,
+   "words": 68,
+   "chars": 503,
    "excerpt": "",
    "refs": []
   },
@@ -1363,8 +1369,8 @@
    "source_url": "https://www.gutenberg.org/files/2848/2848-h/2848-h.htm",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 66,
-   "chars": 484,
+   "words": 76,
+   "chars": 649,
    "excerpt": "Josephus — Antiquities, Book 18, chapters 5-6, Whiston translation",
    "refs": []
   },
@@ -1379,8 +1385,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Acts%2018%3A24-28&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 58,
-   "chars": 453,
+   "words": 68,
+   "chars": 561,
    "excerpt": "",
    "refs": []
   },
@@ -1395,8 +1401,8 @@
    "source_url": "https://publications.acorjordan.org/2016/04/10/excavations-at-the-fortified-royal-palace-of-machaerus-an-acor-video-lecture-by-archaeologist-gyozo-voros/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 78,
-   "chars": 765,
+   "words": 88,
+   "chars": 894,
    "excerpt": "ACOR — Excavations at the Fortified Royal Palace of Machaerus, Győző Vörös research overview, 2016",
    "refs": []
   },
@@ -1411,8 +1417,8 @@
    "source_url": "https://whc.unesco.org/en/list/1446/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 66,
-   "chars": 446,
+   "words": 76,
+   "chars": 623,
    "excerpt": "UNESCO — Baptism Site \"Bethany Beyond the Jordan\" (Al-Maghtas)",
    "refs": []
   },
@@ -1427,8 +1433,8 @@
    "source_url": "https://researchprofiles.ku.dk/en/publications/ams-dating-and-ancient-dna-analysis-of-bone-relics-associated-wit/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 97,
-   "chars": 829,
+   "words": 107,
+   "chars": 979,
    "excerpt": "Kostova and colleagues — AMS dating and ancient DNA analysis of bone relics associated with St John the Baptist, Journal of Archaeological Science: Reports 29, 2020, 102082 researchprofiles.ku.dk",
    "refs": []
   },
@@ -1443,8 +1449,8 @@
    "source_url": "https://www.biblicalarchaeology.org/reviews/the-cave-of-john-the-baptist/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 78,
-   "chars": 563,
+   "words": 88,
+   "chars": 701,
    "excerpt": "James F. Strange — review of Shimon Gibson's The Cave of John the Baptist, 2011",
    "refs": []
   },
@@ -1459,8 +1465,8 @@
    "source_url": "https://www.jjmjs.org/uploads/1/1/9/0/11908749/garcia_voice_cries_in_the_wilderness_2022.pdf",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 86,
-   "chars": 669,
+   "words": 96,
+   "chars": 816,
    "excerpt": "Jeffrey P. García — \"A Voice Cries Out\": Reassessing John the Baptist's Wilderness Relationship to Qumran, JJMJS 9, 2022",
    "refs": []
   },
@@ -1667,8 +1673,8 @@
    "source_url": "https://www.iranicaonline.org/articles/mandaeans/mandaeans-ii-the-mandaean-religion/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 70,
-   "chars": 571,
+   "words": 80,
+   "chars": 697,
    "excerpt": "Kurt Rudolph — “Mandaeans ii. The Mandaean Religion,” Encyclopaedia Iranica, 2008",
    "refs": []
   },
@@ -1683,8 +1689,8 @@
    "source_url": "https://www.iranicaonline.org/articles/mandaeans/mandaeans-i-history/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 66,
-   "chars": 517,
+   "words": 76,
+   "chars": 643,
    "excerpt": "Edmondo Lupieri — “Mandaeans i. History,” Encyclopaedia Iranica, 2008",
    "refs": []
   },
@@ -1699,8 +1705,8 @@
    "source_url": "https://api.pageplace.de/preview/DT0400.9783110487862_A33482931/preview-9783110487862_A33482931.pdf",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 85,
-   "chars": 698,
+   "words": 95,
+   "chars": 824,
    "excerpt": "Charles G. Häberl and James F. McGrath — eds., The Mandaean Book of John: Critical Edition, Translation, and Commentary, 2020, prefatory discussion",
    "refs": []
   },
@@ -1715,8 +1721,8 @@
    "source_url": "https://butler.elsevierpure.com/ws/portalfiles/portal/40125718/The%20Mandaean%20Book%20of%20John_%20Text%20and%20Translation.pdf",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 78,
-   "chars": 683,
+   "words": 88,
+   "chars": 809,
    "excerpt": "Häberl and McGrath — The Mandaean Book of John: Text and Translation, 2020, chapters 18-33",
    "refs": []
   },
@@ -1731,8 +1737,8 @@
    "source_url": "https://digitalcommons.butler.edu/facsch_papers/940/",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 102,
-   "chars": 685,
+   "words": 112,
+   "chars": 811,
    "excerpt": "James F. McGrath — “Polemic, Redaction, and History in the Mandaean Book of John: The Case of the Lightworld Visitors to Jerusalem,” ARAM Periodical 23, 2013, 373-380",
    "refs": []
   },
@@ -1747,8 +1753,8 @@
    "source_url": "https://www.umass.edu/wsp/publications/journals/alphav1/a1-08-mandaean-death.pdf",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 74,
-   "chars": 533,
+   "words": 84,
+   "chars": 659,
    "excerpt": "Charles G. Häberl — “The Mandaean Death of John,” Alpha 1, 2017, 35-36",
    "refs": []
   },
@@ -1763,8 +1769,8 @@
    "source_url": "https://quran.com/3/39",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 66,
-   "chars": 405,
+   "words": 76,
+   "chars": 513,
    "excerpt": "Qur’an 3:38-41 — especially 3:39, Quran.com text and translation",
    "refs": []
   },
@@ -1779,8 +1785,8 @@
    "source_url": "https://quran.com/6/85",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 53,
-   "chars": 314,
+   "words": 63,
+   "chars": 422,
    "excerpt": "",
    "refs": []
   },
@@ -1795,8 +1801,8 @@
    "source_url": "https://quran.com/19/1-15",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 53,
-   "chars": 323,
+   "words": 63,
+   "chars": 431,
    "excerpt": "",
    "refs": []
   },
@@ -1811,8 +1817,8 @@
    "source_url": "https://quran.com/19/12",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 51,
-   "chars": 288,
+   "words": 61,
+   "chars": 396,
    "excerpt": "",
    "refs": []
   },
@@ -1827,8 +1833,8 @@
    "source_url": "https://quran.com/19/13",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 51,
-   "chars": 288,
+   "words": 61,
+   "chars": 396,
    "excerpt": "",
    "refs": []
   },
@@ -1843,8 +1849,8 @@
    "source_url": "https://quran.com/19/14",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 51,
-   "chars": 288,
+   "words": 61,
+   "chars": 396,
    "excerpt": "",
    "refs": []
   },
@@ -1859,8 +1865,8 @@
    "source_url": "https://quran.com/19/15",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 51,
-   "chars": 288,
+   "words": 61,
+   "chars": 396,
    "excerpt": "",
    "refs": []
   },
@@ -1875,8 +1881,8 @@
    "source_url": "https://quran.com/21/89-90",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 53,
-   "chars": 326,
+   "words": 63,
+   "chars": 434,
    "excerpt": "",
    "refs": []
   },
@@ -1923,8 +1929,8 @@
    "source_url": "https://islamansiklopedisi.org.tr/yahya",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 64,
-   "chars": 433,
+   "words": 74,
+   "chars": 574,
    "excerpt": "",
    "refs": []
   },
@@ -1939,8 +1945,8 @@
    "source_url": "https://marble.nd.edu/item/fbc526e5-9459-4a88-9233-b4744a8170a9",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 88,
-   "chars": 629,
+   "words": 98,
+   "chars": 770,
    "excerpt": "University of Notre Dame — “Great Mosque of Damascus: Shrine of John the Baptist (Yahyā) within the mosque,” architectural collection",
    "refs": []
   },
@@ -2035,8 +2041,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Matthew%203&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 60,
-   "chars": 459,
+   "words": 70,
+   "chars": 576,
    "excerpt": "",
    "refs": []
   },
@@ -2051,8 +2057,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Luke%201&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 60,
-   "chars": 447,
+   "words": 70,
+   "chars": 555,
    "excerpt": "",
    "refs": []
   },
@@ -2067,8 +2073,8 @@
    "source_url": "https://www.biblegateway.com/passage/?search=Acts%2018%3A24-19%3A7&version=NRSVUE",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 51,
-   "chars": 418,
+   "words": 61,
+   "chars": 526,
    "excerpt": "",
    "refs": []
   },
@@ -2083,8 +2089,8 @@
    "source_url": "https://www.ccel.org/ccel/josephus/works/files/ant-18.htm",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 78,
-   "chars": 573,
+   "words": 88,
+   "chars": 738,
    "excerpt": "Josephus — Antiquities 18.116-119, corresponding to Book XVIII, chapter 5, section 2 in Whiston's translation",
    "refs": []
   },
@@ -2099,8 +2105,8 @@
    "source_url": "https://quran.com/3/38-41",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 51,
-   "chars": 303,
+   "words": 61,
+   "chars": 411,
    "excerpt": "",
    "refs": []
   },
@@ -2115,8 +2121,8 @@
    "source_url": "https://www.earlychristianwritings.com/thomas/gospelthomas46.html",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 53,
-   "chars": 405,
+   "words": 63,
+   "chars": 543,
    "excerpt": "",
    "refs": []
   },
@@ -2163,9 +2169,9 @@
    "source_url": "https://www.earlychristianwritings.com/text/infancyjames-roberts.html",
    "license": "Generated card; citation text from the dossier.",
    "fetched": "",
-   "words": 53,
-   "chars": 423,
-   "excerpt": "",
+   "words": 63,
+   "chars": 582,
+   "excerpt": "Read the [mirrored text](/doc/gospels/protevangelium-of-james).",
    "refs": []
   },
   {
@@ -3783,7 +3789,7 @@
    "cited_in": {
     "appendix-a-reading-map": 1
    },
-   "doc": null
+   "doc": "scripture/matthew"
   },
   {
    "id": "S80",
@@ -3802,7 +3808,7 @@
    "cited_in": {
     "appendix-a-reading-map": 1
    },
-   "doc": null
+   "doc": "scripture/luke"
   },
   {
    "id": "S81",
@@ -3878,7 +3884,7 @@
    "cited_in": {
     "appendix-a-reading-map": 1
    },
-   "doc": null
+   "doc": "gospels/gospel-of-thomas"
   },
   {
    "id": "S85",
@@ -3935,7 +3941,7 @@
    "cited_in": {
     "appendix-a-reading-map": 1
    },
-   "doc": null
+   "doc": "gospels/protevangelium-of-james"
   },
   {
    "id": "S88",

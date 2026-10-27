@@ -13,19 +13,23 @@
 </style>
 <script>
   // Deep links sometimes arrive as real paths rather than hash routes
-  // (/doc/fathers/didache instead of /#/doc/fathers/didache). Rewrite them so
-  // the reader opens the right page instead of a 404.
+  // (/doc/witnesses/josephus-antiquities-18 instead of
+  // /#/doc/witnesses/josephus-antiquities-18). Rewrite them so the reader opens
+  // the right page instead of a 404. The replacement target is absolute: a
+  // relative "./" would resolve against the deep path's own directory and drop
+  // the collection segment.
   (function () {
     var base = /\/historical-evidence-for-john-the-baptist\/?/.exec(location.pathname);
+    var root = location.origin + (base ? base[0] : "/");
     var rest = base ? location.pathname.slice(base[0].length) : location.pathname.replace(/^\//, "");
     var map = { "doc/": "#/doc/", "ref/": "#/ref/", "collection/": "#/collection/", "search/": "#/search/" };
     for (var key in map) {
       if (rest.indexOf(key) === 0) {
-        location.replace("./" + map[key] + rest.slice(key.length).replace(/\/$/, ""));
+        location.replace(root + map[key] + rest.slice(key.length).replace(/\/$/, ""));
         return;
       }
     }
-    if (rest) location.replace("./");
+    if (rest) location.replace(root);
   })();
 </script>
 </head>
@@ -33,7 +37,7 @@
 <main>
     <h1 class="page-title">Page not found</h1>
     <p class="page-lede">That address is not part of the archive. <a href="./">Go to the index</a>,
-      or press <kbd>/</kbd> after it opens to search all 335 documents.</p>
+      or press <kbd>/</kbd> after it opens to search every document.</p>
 </main>
 </body>
 </html>
